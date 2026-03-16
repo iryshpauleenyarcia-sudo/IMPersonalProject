@@ -6,4 +6,4 @@ NEU Library Access System A web application built with PHP and MySQL designed to
 
 
 ##Link for NEU Library Visitor Log
-- [NEU Library Visitor Log] (https://impersonalproject.free.nf/IMPersonalProject)
+- [NEU Library Visitor Log](https://impersonalproject.free.nf/IMPersonalProject)
