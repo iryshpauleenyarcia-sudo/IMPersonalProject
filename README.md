@@ -1,22 +1,22 @@
 <div align="center">
 
-# NEU Library Access System
+# ୨୧ NEU Library Access System ୨୧
 **Information Management Personal Project**
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Deployment](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)](#)
+[![PHP](https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-FF9EBB?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Deployment](https://img.shields.io/badge/Status-Live-FF8DA1?style=for-the-badge)](#)
 
-*A modern, digital solution for institutional library access and real-time traffic monitoring.*
+*A seamless, digital solution for modern institutional library access and real-time monitoring.* ♡
 
 </div>
 
 ---
 
-## Project Overview
+## ✧ Project Overview
 The NEU Library Access System is a robust web application engineered to phase out manual logbooks in favor of an automated, digital tracking system. Designed for both end-users and administrators, this system streamlines library entry for students and faculty while providing institutional staff with actionable insights into library utilization.
 
-### Developer Information
+### ♡ Developer Information
 | | |
 | :--- | :--- |
 | **Developer** | Irysh Pauleen T. Yarcia |
@@ -25,7 +25,7 @@ The NEU Library Access System is a robust web application engineered to phase ou
 
 ---
 
-## System Capabilities
+## ✧ System Capabilities
 
 * **Automated Kiosk Interface:** A streamlined, user-facing terminal optimized for rapid QR code and institutional ID scanning, designed to eliminate entry bottlenecks.
 * **Secure Administrator Dashboard:** A protected management portal granting authorized library staff access to real-time traffic monitoring and overall data oversight.
@@ -34,7 +34,7 @@ The NEU Library Access System is a robust web application engineered to phase ou
 
 ---
 
-## Technical Stack
+## ✧ Technical Stack
 
 * **Core Technologies:** PHP, MySQL
 * **Frontend:** HTML, CSS, Web Forms
@@ -42,14 +42,14 @@ The NEU Library Access System is a robust web application engineered to phase ou
 
 ---
 
-## Application Access
+## ✧ Application Access
 
-The project is currently deployed and available for interactive testing and evaluation.
+The project is currently deployed and available for interactive testing and evaluation. 
 
-**[Access the Live NEU Library Visitor Log](https://impersonalproject.free.nf/IMPersonalProject)**
+🔗 **[Access the Live NEU Library Visitor Log](https://impersonalproject.free.nf/IMPersonalProject)**
 
 ---
 
 <div align="center">
-<i>Developed as a core requirement for the Information Management curriculum.</i>
+<i>Developed with care as a core requirement for Information Management. ✧</i>
 </div>
